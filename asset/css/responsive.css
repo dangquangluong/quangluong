@@ -1,0 +1,46 @@
+    /* pc */
+    @media (min-width: 1024px) {
+
+    }
+
+    /* may tinh bang */
+    @media (min-width: 740px) and (max-width: 1023px){
+        
+        .content-trum {
+            width: 800px;
+            height: 350px;
+            margin: 0;
+            margin-left: -47px;
+        }
+
+        .tour-diep-vien-007 {
+            margin: 0;
+            margin-left: 92px;
+            background-color: #000;
+        }
+
+        .gioi-thieu-boss {
+            margin: 0 21%;
+            padding: 64px 16px;
+        }
+        
+        .background-map {
+            width: 100%;
+            height: 560px;
+            background: url(https://blogger.googleusercontent.com/img/a/AVvXsEh8uCcEzW_rzwS3PVrYZRen88jdJ0D4sGFuCNt_oT_orfleSME_vtTBhpMUTGNO6vjDvZGbVDQAKZh279SbhOBHuMtkIgk-0lUgeCPi7IhhSwa0CoRpx5KSb5FIzsJTUF0USndaGoY0kzF8FfQIF9sz4wBinqTxoVLSHDlwVslD4O9DwQ-GKAmkMCZBqw) top center / 100% no-repeat;
+        }
+
+        #footer .icon-mxh{           
+         font-size: 50px;
+        }
+
+        #footer .footer-sub {
+            font-size: 40px;
+        }
+
+    }
+
+    /* dien thoat */
+    @media (max-width: 739px) {
+
+    }
